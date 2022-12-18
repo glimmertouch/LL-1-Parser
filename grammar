@@ -1,0 +1,5 @@
+E->TR
+R->+TR|e
+T->FS
+S->*FS|e
+F->(E)|i
